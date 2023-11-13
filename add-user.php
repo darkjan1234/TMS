@@ -38,7 +38,7 @@ $prefix= md5(time()*rand(1, 2)); echo strip_tags(substr($prefix ,0,10));?>" read
                                     <div class="row">
                                     <div class="col-md-4">
                                             <div class="form-group">
-                                                <label for="exampleInputEmail1">Email address</label>
+                                                <label for="exampleInputEmail1">Email Address</label>
                                                 <input type="email" name="email"  class="form-control" placeholder="Email">
                                             </div>
                                         </div>
