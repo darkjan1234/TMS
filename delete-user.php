@@ -4,6 +4,7 @@
  * @author Faith Awolu 
  * Hillsofts Technology Ltd.            
  * (hillsofts@gmail.com)
+ * (janritzcabansag@gmail.com)
  * ................................................................
  */
 
