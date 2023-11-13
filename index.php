@@ -6,6 +6,7 @@
 					<div class="col-md-6">
                         <div class="card">
 
+                        
                             <div class="header">
                                 <h4 class="title">Email Statistics</h4>
                                 <p class="category">Last Campaign Performance</p>
