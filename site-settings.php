@@ -18,6 +18,7 @@
 	$result->execute();
 	for($i=0; $row = $result->fetch(); $i++){
 ?>
+
                                  <form action="save-settings.php" method="post">
 								<div class="row">
                                        <div class="col-md-6">
