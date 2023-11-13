@@ -14,6 +14,7 @@
 
                                 
 ?>
+
                         <div class="card">
 			<div class="header text-center">
                                 <h4 class="title">Offense Detail</h4>
