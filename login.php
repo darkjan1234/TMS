@@ -73,8 +73,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	$result->execute();
 	for($i=0; $row = $result->fetch(); $i++){
 ?>
-									<p>&copy;2018 <?php echo $row['site_name']; ?> | Design by 
-										<a href="http://www.lykup.com/Torrahclef" target="_blank">Awolu Faith</a>
+									<p>&copy;2023 <?php echo $row['site_name']; ?> | Design by 
+										<a href="http://www.lykup.com/Torrahclef" target="_blank">nimer</a>
 									</p>
 	<?php } ?>
 								</div>
