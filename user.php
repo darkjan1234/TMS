@@ -19,6 +19,7 @@
 	$result->execute();
 	for($i=0; $row = $result->fetch(); $i++){
 ?>
+
 							 <form action="update-user.php" method="post">
                                     <div class="row">
                                        <div class="col-md-6">
