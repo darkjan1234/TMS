@@ -50,6 +50,7 @@ function myFunction() {
 	$result = $db->prepare("SELECT * FROM user ORDER BY id DESC");
 	$result->execute();
 	for($i=0; $row = $result->fetch(); $i++){
+    
 
                                        echo' <tr>';
                                         	echo'<td>'.$row['user_id'].'</td>'; 
