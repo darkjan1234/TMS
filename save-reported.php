@@ -18,6 +18,7 @@ if($q){
         }else{
             header("location:report_offence.php?failed=true");
         } 
+        
 		}
 
 
