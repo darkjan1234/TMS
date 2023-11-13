@@ -5,6 +5,7 @@ session_start();
 if(!isset($_SESSION['SESS_FIRST_NAME'])){
     header("location: login.php");
 }
+
 ?>
 <!doctype html>
 <html lang="en">
